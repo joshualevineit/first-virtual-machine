@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to create your first Virtual Machine in Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation steps of creating and launching our first virtual machine in Azure.<br />
 
 
 <h2>Video Demonstration</h2>
