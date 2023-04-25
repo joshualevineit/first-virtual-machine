@@ -5,16 +5,10 @@
 <h1>How to create your first Virtual Machine in Azure</h1>
 This tutorial outlines the prerequisites and installation steps of creating and launching our first virtual machine in Azure.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
 
