@@ -44,3 +44,11 @@ In the Virtual Machines page, select Create and then Azure Virtual Machine. The 
 In the Basics tab, under Project Details, ensure the correct subscription is selected if more than one subscription exists and then choose Create new resource group. Enter myResourceGroup for the name.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Uc5v6dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+desscripppppppppption go herrrrrrrrrrrrrreee
+</p>
+<br />
