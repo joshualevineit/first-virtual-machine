@@ -52,3 +52,11 @@ In the Basics tab, under Project Details, ensure the correct subscription is sel
 Under Instance details, enter VM1 for the Virtual machine name, and choose your respective region. For this example, choose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. Leave the other options as is. The default size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/8WIVZ59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+NEXT STEP
+</p>
+<br />
