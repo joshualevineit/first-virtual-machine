@@ -57,6 +57,6 @@ Under Instance details, enter VM1 for the Virtual machine name, and choose your 
 <img src="https://i.imgur.com/8WIVZ59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-NEXT STEP
+Under Administrator account, in Username enter azureuser. For password create something safe and secure, as this will be what you use to access your Virtual machine.
 </p>
 <br />
