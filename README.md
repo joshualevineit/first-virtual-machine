@@ -60,3 +60,11 @@ Under Instance details, enter VM1 for the Virtual machine name, and choose your 
 Under Administrator account, in Username enter azureuser. For password create something safe and secure, as this will be what you use to access your Virtual machine.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/BDYrSxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80) and HTTPS (443) from the drop down menu.
+</p>
+<br />
