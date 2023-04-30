@@ -76,3 +76,11 @@ Under Inbound port rules > Public inbound ports, choose Allow selected ports and
 On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, select Create.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/RMNLl9w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+When the deployment is complete, select Go to resource.
+</p>
+<br />
