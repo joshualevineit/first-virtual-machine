@@ -68,3 +68,11 @@ Under Administrator account, in Username enter azureuser. For password create so
 Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80) and HTTPS (443) from the drop down menu. Once that is completed, leave the remaining options as default and then select the Review + create button at the bottom of the page.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/IfB2Hqq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, select Create.
+</p>
+<br />
