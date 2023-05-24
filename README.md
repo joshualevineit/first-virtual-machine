@@ -86,7 +86,7 @@ When the deployment is complete, select Go to resource.
 <br />
 
 <p>
-<img src="https://i.imgur.com/IrrPhH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7ImJPMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On the page for your new VM, select the public IP address and copy it to your clipboard.
