@@ -121,6 +121,6 @@ You may recieve a certificate warning during the sign-in process. Click yes to c
 <img src="https://i.imgur.com/PjZJ8o5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Congratulations! You have created your first Virtual Machine in Microsoft Azure. This is a sample of what your VM will look like once you have signed in. The blue bar at the top of the page containing your VM's IP address is the most clear indicator to know when you are inside of your VM or your actual PC.
+Congratulations! You have created your first Virtual Machine in Microsoft Azure. This is a sample of what your VM will look like once you have signed in. The blue bar at the top of the page containing your VM's IP address is the most clear indicator to know when you are inside of your VM vs your actual PC.
 </p>
 <br />
