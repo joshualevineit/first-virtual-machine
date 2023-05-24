@@ -86,7 +86,7 @@ When the deployment is complete, select Go to resource.
 <br />
 
 <p>
-<img src="https://i.imgur.com/7ImJPMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WNRPo70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On the page for your new VM, select the public IP address and copy it to your clipboard.
@@ -94,7 +94,7 @@ On the page for your new VM, select the public IP address and copy it to your cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/QeCHf4H.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tdMBGeB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 For Windows users, open Remote Desktop Connection and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and select Connect.
