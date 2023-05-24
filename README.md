@@ -108,3 +108,11 @@ For Windows users, open Remote Desktop Connection and paste the public IP addres
 Next you will be asked to enter your credentials (username and password) to access your VM, enter your info and select OK.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3T3yzYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You may recieve a certificate warning during the sign-in process. Click yes to create the connection.
+</p>
+<br />
