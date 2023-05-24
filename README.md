@@ -116,3 +116,11 @@ Next you will be asked to enter your credentials (username and password) to acce
 You may recieve a certificate warning during the sign-in process. Click yes to create the connection.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/PjZJ8o5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+LAST STEP
+</p>
+<br />
