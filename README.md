@@ -94,9 +94,9 @@ On the page for your new VM, select the public IP address and copy it to your cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZAA0Up6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QeCHf4H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-NEXT STEP
+For Windows users, open Remote Desktop Connection and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and select Connect.
 </p>
 <br />
