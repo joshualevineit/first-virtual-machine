@@ -70,7 +70,7 @@ Under Inbound port rules > Public inbound ports, choose Allow selected ports and
 <br />
 
 <p>
-<img src="https://i.imgur.com/IfB2Hqq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tfx3MHD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, select Create.
@@ -78,7 +78,7 @@ On the Create a virtual machine page, you can see the details of the virtual mac
 <br />
 
 <p>
-<img src="https://i.imgur.com/RMNLl9w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K8lVkFY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 When the deployment is complete, select Go to resource.
