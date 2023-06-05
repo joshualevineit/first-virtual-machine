@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 <img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Firstly enter "Virtual Machines" in the search bar above. Under Services select Virtual Machines.
+Firstly enter "Virtual Machines" in the search bar above. Under Services **select** Virtual Machines.
 </p>
 <br />
 
