@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 <h2>List of Prerequisites</h2>
 
 - An internet connection
-- A active Microsoft Azure subscription
+- An active Microsoft Azure subscription
 
 <h2>Installation Steps</h2>
 
