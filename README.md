@@ -37,7 +37,7 @@ From your search bar <strong>enter "portal.azure.com"</strong> to reach the Azur
 
 <h3>STEP 2</h3>
 <p>
-  Firstly <strong>enter "Virtual Machines"</strong> in the search bar above. <strong>Under Services select Virtual Machines</strong>.
+Firstly <strong>enter "Virtual Machines"</strong> in the search bar above. <strong>Under Services select Virtual Machines</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -46,7 +46,7 @@ From your search bar <strong>enter "portal.azure.com"</strong> to reach the Azur
 
 <h3>STEP 3</h3>
 <p>
-In the Virtual Machines page, select Create and then select Azure Virtual Machine. The create a virtual machine page opens.
+In the Virtual Machines page, <strong>select Create and then select Azure Virtual Machine</strong>. The create a virtual machine page opens.
 <p>
 <br>
 <img src="https://i.imgur.com/tBMzKaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -55,7 +55,7 @@ In the Virtual Machines page, select Create and then select Azure Virtual Machin
 
 <h3>STEP 4</h3>
 <p>
-In the Basics tab, under Project Details, ensure the correct subscription is selected if more than one subscription exists and then choose Create new resource group. Enter myResourceGroup for the name.
+<strong>In the Basics tab, under Project Details,</strong> ensure the correct subscription is selected if more than one subscription exists and then <strong>choose Create new resource group. Enter myResourceGroup for the name.</strong>
 <p>
 <br>
 <img src="https://i.imgur.com/vK780Ke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
