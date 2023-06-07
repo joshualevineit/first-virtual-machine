@@ -26,17 +26,25 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 
 <h3>STEP 1</h3>
 <p>
+From your search bar enter "portal.azure.com" to reach the Azure homepage.
+<p>
+<img src="https://i.imgur.com/CBi1pwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<h3>STEP 2</h3>
+<p>
 Firstly enter "Virtual Machines" in the search bar above. Under Services select Virtual Machines.
 <p>
 <img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/tBMzKaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<h3>STEP 3</h3>
 <p>
 In the Virtual Machines page, select Create and then Azure Virtual Machine. The create a virtual machine page opens.
+<p>
+<img src="https://i.imgur.com/tBMzKaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
