@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 <p>
 From your search bar enter "portal.azure.com" to reach the Azure homepage.
 <p>
-<img src="https://i.imgur.com/CBi1pwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CBi1pwC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
