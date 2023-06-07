@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 
 <h2>Why use an Azure Virtual Machine?</h2>
 
-Imagine Azure Virtual Machines as computer-like entites that exist on the Internet. They allow you to do things on a computer without actually owning one physically. With Azure Virtual Machines, you can use different types of software and run programs just like you would on a regualr computer. They are great for hosting websites and allowing you to create your own online space, storing and analyzing data, and even running game servers. It's like having a virtual computer that you can customize and use for all sorts of tasks and projects and it is all accessible through the Internet.
+Imagine Azure Virtual Machines as computer-like entites that exist on the Internet. They allow you to do things on a computer without actually owning one physically. With Azure Virtual Machines, you can use different types of software and run programs just like you would on a regular computer. They are great for hosting websites and allowing you to create your own online space, storing and analyzing data, and even running game servers. It's like having a virtual computer that you can customize and use for all sorts of tasks and projects and it is all accessible through the Internet.
 
 <h2>Environments and Technologies Used</h2>
 
