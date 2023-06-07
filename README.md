@@ -55,7 +55,7 @@ In the Virtual Machines page, <strong>select Create and then select Azure Virtua
 
 <h3>STEP 4</h3>
 <p>
-<strong>In the Basics tab, under Project Details,</strong> ensure the correct subscription is selected if more than one subscription exists and then <strong>choose Create new resource group. Enter myResourceGroup for the name.</strong>
+<strong>In the Basics tab, under Project Details,</strong> ensure the correct subscription is selected if more than one subscription exists and then <strong>choose Create new resource group.</strong> Enter myResourceGroup for the name.
 <p>
 <br>
 <img src="https://i.imgur.com/vK780Ke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
