@@ -98,34 +98,30 @@ On the page for your new VM, select the public IP address and copy it to your cl
 </p>
 <br />
 
+<h3>STEP 11</h3>
+For Windows users, open Remote Desktop Connection and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and select Connect.
 <p>
 <img src="https://i.imgur.com/tdMBGeB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-For Windows users, open Remote Desktop Connection and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and select Connect.
-</p>
 <br />
 
+<h3>STEP 12</h3>
+Next you will be asked to enter your credentials (username and password) to access your VM, enter your info and select OK.
 <p>
 <img src="https://i.imgur.com/fu3J2eE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Next you will be asked to enter your credentials (username and password) to access your VM, enter your info and select OK.
-</p>
 <br />
 
+<h3>STEP 13</h3>
+You may recieve a certificate warning during the sign-in process. Click yes to create the connection.
 <p>
 <img src="https://i.imgur.com/3T3yzYP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-You may recieve a certificate warning during the sign-in process. Click yes to create the connection.
-</p>
 <br />
 
+<h3>STEP 14</h3>
+Congratulations! You have created your first Virtual Machine in Microsoft Azure. This is a sample of what your VM will look like once you have signed in. The blue bar at the top of the page containing your VM's IP address is the most clear indicator to know when you are inside of your VM vs your actual PC.
 <p>
 <img src="https://i.imgur.com/PjZJ8o5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Congratulations! You have created your first Virtual Machine in Microsoft Azure. This is a sample of what your VM will look like once you have signed in. The blue bar at the top of the page containing your VM's IP address is the most clear indicator to know when you are inside of your VM vs your actual PC.
 </p>
 <br />
