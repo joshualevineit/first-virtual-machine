@@ -5,6 +5,9 @@
 <h1>How to create your first Virtual Machine in Azure</h1>
 This tutorial outlines the prerequisites and installation steps of creating and launching our first virtual machine in Azure.<br />
 
+<h2>Why use an Azure Virtual Machine?</h2>
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -22,11 +25,15 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 <h2>Installation Steps</h2>
 
 <p>
+**STEP 1**
+<p>
+<p>
+Firstly enter "Virtual Machines" in the search bar above. Under Services select Virtual Machines.
+<p>
 <img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Firstly enter "Virtual Machines" in the search bar above. Under Services select Virtual Machines.
-</p>
+<img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <br />
 
 <p>
