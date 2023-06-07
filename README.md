@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 
 <h3>STEP 2</h3>
 <p>
-  Firstly enter "Virtual Machines" in the search bar above. Under Services <strong>select Virtual Machines</strong>.
+  Firstly <strong>enter "Virtual Machines"</strong> in the search bar above. <strong>Under Services select Virtual Machines</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
