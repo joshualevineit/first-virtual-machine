@@ -24,9 +24,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 
 <h2>Installation Steps</h2>
 
-<p>
-STEP 1
-<p>
+<h3>STEP 1</h3>
 <p>
 Firstly enter "Virtual Machines" in the search bar above. Under Services select Virtual Machines.
 <p>
