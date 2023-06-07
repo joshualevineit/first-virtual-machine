@@ -3,7 +3,8 @@
 </p>
 
 <h1>How to create your first Virtual Machine in Azure</h1>
-This tutorial outlines the prerequisites and installation steps of creating and launching our first virtual machine in Azure.<br />
+This tutorial outlines the prerequisites and installation steps of creating and launching your first virtual machine in Azure.
+<br />
 
 <h2>Why use an Azure Virtual Machine?</h2>
 
