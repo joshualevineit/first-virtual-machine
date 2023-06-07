@@ -46,7 +46,7 @@ Firstly <strong>type "Virtual Machines"</strong> in the search bar above. <stron
 
 <h3>STEP 3</h3>
 <p>
-In the Virtual Machines page, <strong>select Create and then select Azure Virtual Machine</strong>. The create a virtual machine page opens.
+In the Virtual Machines page, <strong>click Create and then select Azure Virtual Machine</strong>. The create a virtual machine page opens.
 <p>
 <br>
 <img src="https://i.imgur.com/tBMzKaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
