@@ -63,7 +63,7 @@ In the Virtual Machines page, <strong>click Create and then select Azure Virtual
 <br />
 
 <h3>STEP 5</h3>
-<strong>Under Instance details,</strong> enter VM1 for the Virtual machine name, and choose your respective region. For this example, choose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. Leave the other options as is. The default size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription.
+<strong>Under Instance details,</strong> enter VM1 for the Virtual machine name, and choose your respective region. For this example, choose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. Leave the other options as is. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription.
 <p>
 <br>
 <img src="https://i.imgur.com/Uc5v6dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -87,6 +87,14 @@ In the Virtual Machines page, <strong>click Create and then select Azure Virtual
 <br />
 
 <h3>STEP 8</h3>
+Next under Licensing, click off the box confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed select the Review + create button at the bottom of the page
+<p>
+<br>
+<img src="https://i.imgur.com/ebvb202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<h3>STEP 9</h3>
 On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, <strong>select Create.</strong>
 <p>
 <br>
@@ -94,7 +102,7 @@ On the Create a virtual machine page, you can see the details of the virtual mac
 </p>
 <br />
 
-<h3>STEP 9</h3>
+<h3>STEP 10</h3>
 When the deployment is complete, <strong>select Go to resource.</strong>
 <p>
 <br>
@@ -102,7 +110,7 @@ When the deployment is complete, <strong>select Go to resource.</strong>
 </p>
 <br />
 
-<h3>STEP 10</h3>
+<h3>STEP 11</h3>
 On the page for your new VM, <strong>select the public IP address and copy it to your clipboard.</strong>
 <p>
 <br>
@@ -110,7 +118,7 @@ On the page for your new VM, <strong>select the public IP address and copy it to
 </p>
 <br />
 
-<h3>STEP 11</h3>
+<h3>STEP 12</h3>
 For Windows users, open Remote Desktop Connection and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and <strong>select Connect.</strong>
 <p>
 <br>
@@ -118,7 +126,7 @@ For Windows users, open Remote Desktop Connection and paste the public IP addres
 </p>
 <br />
 
-<h3>STEP 12</h3>
+<h3>STEP 13</h3>
 Next you will be asked to enter your credentials (username and password) to access your VM, <strong>enter your info and select OK.</strong>
 <p>
 <br>
@@ -126,7 +134,7 @@ Next you will be asked to enter your credentials (username and password) to acce
 </p>
 <br />
 
-<h3>STEP 13</h3>
+<h3>STEP 14</h3>
 You may recieve a certificate warning during the sign-in process. <strong>Click yes to create the connection.</strong>
 <p>
 <br>
@@ -134,7 +142,7 @@ You may recieve a certificate warning during the sign-in process. <strong>Click 
 </p>
 <br />
 
-<h3>STEP 14</h3>
+<h3>STEP 15</h3>
 Congratulations! You have created your first Virtual Machine in Microsoft Azure. This is a sample of what your VM will look like once you have signed in. The blue bar at the top of the page containing your VM's IP address is the most clear indicator to know when you are inside of your VM vs your actual PC.
 <p>
 <br>
