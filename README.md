@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 
 <h3>STEP 1</h3>
 <p>
-From your search bar **enter** "portal.azure.com" to reach the Azure homepage.
+From your search bar enter "portal.azure.com" to reach the Azure homepage.
 <p>
 <img src="https://i.imgur.com/CBi1pwC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
@@ -42,65 +42,59 @@ Firstly enter "Virtual Machines" in the search bar above. Under Services select 
 
 <h3>STEP 3</h3>
 <p>
-In the Virtual Machines page, select Create and then Azure Virtual Machine. The create a virtual machine page opens.
+In the Virtual Machines page, select Create and then select Azure Virtual Machine. The create a virtual machine page opens.
 <p>
 <img src="https://i.imgur.com/tBMzKaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<h3>STEP 4</h3>
+<p>
+In the Basics tab, under Project Details, ensure the correct subscription is selected if more than one subscription exists and then choose Create new resource group. Enter myResourceGroup for the name.
 <p>
 <img src="https://i.imgur.com/vK780Ke.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-In the Basics tab, under Project Details, ensure the correct subscription is selected if more than one subscription exists and then choose Create new resource group. Enter myResourceGroup for the name.
-</p>
 <br />
 
+<h3>STEP 5</h3>
+Under Instance details, enter VM1 for the Virtual machine name, and choose your respective region. For this example, choose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. Leave the other options as is. The default size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription.
 <p>
 <img src="https://i.imgur.com/Uc5v6dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Under Instance details, enter VM1 for the Virtual machine name, and choose your respective region. For this example, choose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. Leave the other options as is. The default size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription.
-</p>
 <br />
 
+<h3>STEP 6</h3>
+Under Administrator account, in Username enter azureuser. For password create something safe and secure, as this will be what you use to access your Virtual machine.
 <p>
 <img src="https://i.imgur.com/8WIVZ59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Under Administrator account, in Username enter azureuser. For password create something safe and secure, as this will be what you use to access your Virtual machine.
-</p>
 <br />
 
+<h3>STEP 7</h3>
+Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80), HTTPS (443), and RDP (3389) from the drop down menu. Once that is completed, leave the remaining options as default and then select the Review + create button at the bottom of the page.
 <p>
 <img src="https://i.imgur.com/jD1yv8I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80), HTTPS (443), and RDP (3389) from the drop down menu. Once that is completed, leave the remaining options as default and then select the Review + create button at the bottom of the page.
-</p>
 <br />
 
+<h3>STEP 8</h3>
+On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, select Create.
 <p>
 <img src="https://i.imgur.com/tfx3MHD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, select Create.
-</p>
 <br />
 
+<h3>STEP 9</h3>
+When the deployment is complete, select Go to resource.
 <p>
 <img src="https://i.imgur.com/K8lVkFY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-When the deployment is complete, select Go to resource.
-</p>
 <br />
 
+<h3>STEP 10</h3>
+On the page for your new VM, select the public IP address and copy it to your clipboard.
 <p>
 <img src="https://i.imgur.com/WNRPo70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-On the page for your new VM, select the public IP address and copy it to your clipboard.
 </p>
 <br />
 
