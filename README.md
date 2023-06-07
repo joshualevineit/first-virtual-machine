@@ -17,7 +17,7 @@ Imagine Azure Virtual Machines as computer-like entites that exist on the Intern
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
