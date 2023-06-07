@@ -26,9 +26,9 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 <h2>Installation Steps</h2>
 
 <h3>STEP 1</h3>
-<br />
-From your search bar enter "portal.azure.com" to reach the Azure homepage.
 <p>
+From your search bar enter "portal.azure.com" to reach the Azure homepage.
+<br/>
 <img src="https://i.imgur.com/CBi1pwC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
