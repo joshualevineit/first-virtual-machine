@@ -79,7 +79,7 @@ In the Virtual Machines page, <strong>click Create and then select Azure Virtual
 <br />
 
 <h3>STEP 7</h3>
-<strong>Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80), HTTPS (443), and RDP (3389)</strong> from the drop down menu. Once that is completed, leave the remaining options as default and then <strong>select the Review + create button at the bottom of the page.</strong>
+<strong>Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80), HTTPS (443), and RDP (3389)</strong> from the drop down menu.
 <p>
 <br>
 <img src="https://i.imgur.com/jD1yv8I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -87,7 +87,7 @@ In the Virtual Machines page, <strong>click Create and then select Azure Virtual
 <br />
 
 <h3>STEP 8</h3>
-Next under Licensing, click off the box confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed select the Review + create button at the bottom of the page
+<strong>Next under Licensing, click the box</strong> confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed <strong>select the Review + create</strong> button at the bottom of the page
 <p>
 <br>
 <img src="https://i.imgur.com/ebvb202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
