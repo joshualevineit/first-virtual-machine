@@ -9,6 +9,7 @@ This tutorial outlines the prerequisites and installation steps of creating and 
 <h2>Why use an Azure Virtual Machine?</h2>
 
 
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
