@@ -63,7 +63,7 @@ In the <strong>Basics</strong> tab, under <strong>Project Details</strong>, ensu
 <br />
 
 <h3>STEP 5</h3>
-<strong>Under Instance details,</strong> enter VM1 for the Virtual machine name, and choose your respective region. For this example, choose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. Leave the other options as is. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription.
+Under <strong>Instance details</strong> give your VM a name, I chose VM1. Next, choose your respective region. Then for this example, I I I chose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription. Leave the other options as is and continue to the next step.
 <p>
 <br>
 <img src="https://i.imgur.com/Uc5v6dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -71,7 +71,7 @@ In the <strong>Basics</strong> tab, under <strong>Project Details</strong>, ensu
 <br />
 
 <h3>STEP 6</h3>
-<strong>Under Administrator account,</strong> in Username enter azureuser. For password create something safe and secure, as this will be what you use to access your Virtual machine.
+Under <strong>Administrator account</strong>, create a username you will use to login to your VM, for example "azureuser". For password create something safe and secure.
 <p>
 <br>
 <img src="https://i.imgur.com/8WIVZ59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
