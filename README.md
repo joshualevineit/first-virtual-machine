@@ -37,7 +37,7 @@ From your search bar type <strong>"portal.azure.com"</strong> to reach the Azure
 
 <h3>STEP 2</h3>
 <p>
-Firstly <strong>type "Virtual Machines"</strong> in the search bar above. <strong>Under Services select Virtual Machines</strong>.
+From the Azure homepage type <strong>"Virtual Machines"</strong> in the search bar above. Under <strong>Services</strong> select <strong>Virtual Machines</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/sCszESe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
