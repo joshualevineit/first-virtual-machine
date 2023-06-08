@@ -28,7 +28,7 @@ Azure Virtual Machines are computer-like entities that exist on the Internet. Th
 
 <h3>STEP 1</h3>
 <p>
-From your search bar <strong>enter "portal.azure.com"</strong> to reach the Azure homepage.
+From your search bar type <strong>"portal.azure.com"</strong> to reach the Azure homepage.
 <p>
 <br>
 <img src="https://i.imgur.com/CBi1pwC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
