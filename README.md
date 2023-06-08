@@ -87,7 +87,7 @@ In the Virtual Machines page, <strong>click Create and then select Azure Virtual
 <br />
 
 <h3>STEP 8</h3>
-<strong>Next under Licensing, click the box</strong> confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed <strong>select the Review + create</strong> button at the bottom of the page
+<strong>Next, under Licensing click the box</strong> confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed <strong>select the Review + create</strong> button at the bottom of the page
 <p>
 <br>
 <img src="https://i.imgur.com/rvussy8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
