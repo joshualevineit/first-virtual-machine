@@ -63,7 +63,7 @@ In the <strong>Basics</strong> tab, under <strong>Project Details</strong>, ensu
 <br />
 
 <h3>STEP 5</h3>
-Under <strong>Instance details</strong> give your VM a name, I chose VM1. Next, choose your respective region. Then for this example, I chose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription. Leave the other options as is and continue to the next step.
+Under <strong>Instance details</strong> give your VM a name, I chose VM1. Next, choose your respective region. Then for this example, I chose Windows 10 Pro, version 21H2 - x64 Gen2 for the image. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription. Leave the other options as is and continue to the next step.
 <p>
 <br>
 <img src="https://i.imgur.com/Uc5v6dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
