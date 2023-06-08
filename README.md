@@ -63,7 +63,7 @@ In the <strong>Basics</strong> tab, under <strong>Project Details</strong>, ensu
 <br />
 
 <h3>STEP 5</h3>
-Under <strong>Instance details</strong> give your VM a name, I chose VM1. Next, choose your respective region. Then for this example, I I I chose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription. Leave the other options as is and continue to the next step.
+Under <strong>Instance details</strong> give your VM a name, I chose VM1. Next, choose your respective region. Then for this example, I chose Windows 10 Pro, version 21H2 - x64 Gen2 for your image. The size and pricing in this tutorial is only shown as an example. Size availability and pricing are dependent on your region and subscription. Leave the other options as is and continue to the next step.
 <p>
 <br>
 <img src="https://i.imgur.com/Uc5v6dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -79,7 +79,7 @@ Under <strong>Administrator account</strong>, create a username you will use to 
 <br />
 
 <h3>STEP 7</h3>
-<strong>Under Inbound port rules > Public inbound ports, choose Allow selected ports and then select HTTP (80), HTTPS (443), and RDP (3389)</strong> from the drop down menu.
+Under <strong>Inbound port rules > Public inbound ports</strong>, choose <strong>Allow selected ports</strong> and then select <strong>HTTP (80)</strong>, <strong>HTTPS (443)</strong>, and <strong>RDP (3389)</strong> from the drop down menu.
 <p>
 <br>
 <img src="https://i.imgur.com/jD1yv8I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -87,7 +87,7 @@ Under <strong>Administrator account</strong>, create a username you will use to 
 <br />
 
 <h3>STEP 8</h3>
-<strong>Next, under Licensing click the box</strong> confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed <strong>select the Review + create</strong> button at the bottom of the page
+Next, under <strong>Licensing</strong> click the box confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed select the <strong>Review + create</strong> button at the bottom of the page
 <p>
 <br>
 <img src="https://i.imgur.com/rvussy8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -95,7 +95,7 @@ Under <strong>Administrator account</strong>, create a username you will use to 
 <br />
 
 <h3>STEP 9</h3>
-On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, <strong>select Create.</strong>
+On the Create a virtual machine page, you can see the details of the virtual machine you are about to create. When you are ready, select <strong>Create</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/tfx3MHD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -103,7 +103,7 @@ On the Create a virtual machine page, you can see the details of the virtual mac
 <br />
 
 <h3>STEP 10</h3>
-When the deployment is complete, <strong>select Go to resource.</strong>
+When the deployment is complete, select <strong>Go to resource</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/K8lVkFY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -111,7 +111,7 @@ When the deployment is complete, <strong>select Go to resource.</strong>
 <br />
 
 <h3>STEP 11</h3>
-On the page for your new VM, <strong>select the public IP address and copy it to your clipboard.</strong>
+On the page for your new VM, select the <strong>public IP address</strong> and copy it to your clipboard.
 <p>
 <br>
 <img src="https://i.imgur.com/WNRPo70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -119,7 +119,7 @@ On the page for your new VM, <strong>select the public IP address and copy it to
 <br />
 
 <h3>STEP 12</h3>
-For Windows users, open Remote Desktop Connection and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and <strong>select Connect.</strong>
+For Windows users, open <strong>Remote Desktop Connection</strong> and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and select <strong>Connect</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/tdMBGeB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -127,7 +127,7 @@ For Windows users, open Remote Desktop Connection and paste the public IP addres
 <br />
 
 <h3>STEP 13</h3>
-Next you will be asked to enter your credentials (username and password) to access your VM, <strong>enter your info and select OK.</strong>
+Next you will be asked to enter your credentials (username and password) to access your VM, enter your info and select <strong>OK</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/fu3J2eE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -135,7 +135,7 @@ Next you will be asked to enter your credentials (username and password) to acce
 <br />
 
 <h3>STEP 14</h3>
-You may recieve a certificate warning during the sign-in process. <strong>Click yes to create the connection.</strong>
+You may recieve a certificate warning during the sign-in process. Click <strong>Yes</strong> to create the connection.
 <p>
 <br>
 <img src="https://i.imgur.com/3T3yzYP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
