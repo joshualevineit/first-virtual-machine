@@ -111,7 +111,7 @@ When the deployment is complete, select <strong>Go to resource</strong>.
 <br />
 
 <h3>STEP 11</h3>
-On the page for your new VM, select the <strong>public IP address</strong> and copy it to your clipboard.
+On the page for your new VM, select the <strong>Public IP address</strong> and copy it to your clipboard.
 <p>
 <br>
 <img src="https://i.imgur.com/WNRPo70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
