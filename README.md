@@ -71,7 +71,7 @@ Under <strong>Instance details</strong> give your VM a name, (ex. VM1). Next, ch
 <br />
 
 <h3>STEP 6</h3>
-Under <strong>Administrator account</strong>, create a username you will use to login to your VM, for example "azureuser". For password create something safe and secure.
+Under <strong>Administrator account</strong>, create a username you will use to login to your VM (ex. azureuser). For password create something safe and secure.
 <p>
 <br>
 <img src="https://i.imgur.com/8WIVZ59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
