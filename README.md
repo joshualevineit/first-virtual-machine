@@ -119,7 +119,7 @@ On the page for your new VM, select the <strong>Public IP address</strong> and c
 <br />
 
 <h3>STEP 12</h3>
-For Windows users, open <strong>Remote Desktop Connection</strong> and paste the public IP address for your new VM here. For users on MAC, you may want to download Microsoft Remote Desktop on the MAC App Store for this step, once downloaded paste the public IP address for your new VM here and select <strong>Connect</strong>.
+For Windows users, open <strong>Remote Desktop Connection</strong> and paste the public IP address for your new VM here and select <strong>Connect</strong>. For MAC users, you will need to download Microsoft Remote Desktop from your app store for this step, once downloaded paste the public IP address for your new VM here and select <strong>Connect</strong>.
 <p>
 <br>
 <img src="https://i.imgur.com/tdMBGeB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
