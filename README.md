@@ -87,7 +87,7 @@ Under <strong>Inbound port rules > Public inbound ports</strong>, choose <strong
 <br />
 
 <h3>STEP 8</h3>
-Next, under <strong>Licensing</strong> click the box confirming you have a Windows 10 or 11 license with hosting rights. Once that is completed select the <strong>Review + create</strong> button at the bottom of the page
+Next, under <strong>Licensing</strong> click the box confirming you have a Windows 10 or 11 license with hosting rights. Once completed select the <strong>Review + create</strong> button at the bottom of the page
 <p>
 <br>
 <img src="https://i.imgur.com/rvussy8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
